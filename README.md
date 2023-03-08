@@ -1,2 +1,2 @@
 # PraktikumPBO2 - C
-## Wahyu Arif Maulana - 24060120120018
+Wahyu Arif Maulana - 24060120120018
